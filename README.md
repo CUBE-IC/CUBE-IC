@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<img src="https://64.media.tumblr.com/0bf36226bbfb19f50f0b531cc95d28e5/5106a8fcc6579e1a-70/s2048x3072/890a59dd986df5149fbbc2aab8d92832d5231dec.pnj" alt="Splaty">
+<img src="https://64.media.tumblr.com/708d62ecd54b6234814bd29a342c1bbd/b106f38eeac082e9-da/s540x810/626fa51d88c5c992518c9b62e11474f381e0d631.pnj" alt="wip">
 <!--
 **CUBE-IC/CUBE-IC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
