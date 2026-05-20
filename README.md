@@ -1,1 +1,1 @@
-<img src="https://64.media.tumblr.com/8fe55011aca8146600564dd9f85c630e/102462157bb067d8-8d/s2048x3072/2865beb83fb0c806c9bb47128c9c8f88c2ec5145.pnj" alt="Splaty" width="4692" height="2385">
+<img src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/967a36c1b5678cc09b98792fb2257f42ea7846aa6f5848e5ecd90b401383bdef_1.jpg" alt="Splaty" width="4692" height="2385">
